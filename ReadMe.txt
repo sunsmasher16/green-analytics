@@ -9,7 +9,7 @@ Tech used - Jupyter Notebook, Python 3.7 or higher, Tableau Desktop 2021 or high
 Contents
 
 - CODE - Parent directory for all code and data
- | - data - All input and output data is collected here
+ | - data - All input and output data is collected here (Unzip data.zip to get unprocessed data)
  | - viz - Contains "Tableau" visualization file - "green_analytics_v2.twbx"
  | - Correlation.ipynb - Creates Pearson's correlation coefficients for all the countries - Output -> data_relationship.csv
  | - data-clustering.ipynb - Does Principal component analysis and clustering for countries - Output -> data-clustering.csv
