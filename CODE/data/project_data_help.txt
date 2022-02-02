@@ -1,0 +1,31 @@
+
+Detail data:
+All sources provide data by country and year. can use data from 1990 to 2018
+Forest area (% of land area) - https://data.worldbank.org/indicator/AG.LND.FRST.ZS
+GDP per capita (current US$) - https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+GNI per capita, Atlas method (current US$) - https://data.worldbank.org/indicator/NY.GNP.PCAP.CD
+Inflation, consumer prices (annual %) - https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+Population density (people per sq. km of land area) - https://data.worldbank.org/indicator/EN.POP.DNST
+Human Development Index (HDI) - http://hdr.undp.org/en/indicators/137506#
+Unemployment - https://ourworldindata.org/grapher/unemployment-rate/https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
+Infant mortality - https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=CME&ver=1.0&dq=.CME_MRY1T4..&startPeriod=1990&endPeriod=2019
+
+https://stats.oecd.org/Index.aspx?DataSetCode=EDU_GRAD_MOBILE
+
+ESG Index - https://risk-indexes.com/about-esgi/
+Global Corruption Index - https://risk-indexes.com/global-corruption-index/ and https://www.transparency.org/en/cpi/2020/index/nzl
+
+Classification data:
+World Bank country classifications by income level - https://blogs.worldbank.org/opendata/new-world-bank-country-classifications-income-level-2021-2022
+
+Idea is to determine which countries have been able to preserve forestation without impacting there economy, after accounting for the population increase, inflation, and classification (high income countries, low income countries etc.).
+
+Tech -
+Python
+Tableau
+
+
+https://ourworldindata.org/drivers-of-deforestation#cutting-down-forests-what-are-the-drivers-of-deforestation
+
+
+https://docs.google.com/document/d/e/2PACX-1vT7rlA6C13VUbkDRK0QyAH-6z6Rrq7HfXc1esrg-RoqziUKVrz2OsA2jl06RPpc-6ZhGl2wk3kF4wbr/pub#h.z11rqsgxo2dh
