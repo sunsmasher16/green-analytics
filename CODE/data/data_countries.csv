@@ -1,0 +1,208 @@
+country_id,country,continent,development_status,income
+0,ALGERIA,Africa,Developing,Low Middle Income
+1,EGYPT,Africa,Developing,Low Middle Income
+2,LIBYA,Africa,Developing,Upper Middle Income
+3,MOROCCO,Africa,Developing,Low Middle Income
+4,SUDAN,Africa,Developing,Low Income
+5,TUNISIA,Africa,Developing,Low Middle Income
+8,BURUNDI,Africa,Developing,Low Income
+9,COMOROS,Africa,Developing,Low Middle Income
+10,DJIBOUTI,Africa,Developing,Low Middle Income
+11,ERITREA,Africa,Developing,Low Income
+12,ETHIOPIA,Africa,Developing,Low Income
+14,KENYA,Africa,Developing,Low Middle Income
+15,MADAGASCAR,Africa,Developing,Low Income
+16,MALAWI,Africa,Developing,Low Income
+17,MAURITIUS,Africa,Developing,Upper Middle Income
+19,MOZAMBIQUE,Africa,Developing,Low Income
+21,RWANDA,Africa,Developing,Low Income
+22,SEYCHELLES,Africa,Developing,High Income
+23,SOMALIA,Africa,Developing,Low Income
+24,SOUTH SUDAN,Africa,Developing,Low Income
+25,UGANDA,Africa,Developing,Low Income
+26,UNITED REPUBLIC OF TANZANIA,Africa,Developing,Low Middle Income
+27,ZAMBIA,Africa,Developing,Low Middle Income
+28,ZIMBABWE,Africa,Developing,Low Middle Income
+29,ANGOLA,Africa,Developing,Low Middle Income
+30,CAMEROON,Africa,Developing,Low Middle Income
+31,CENTRAL AFRICAN REPUBLIC,Africa,Developing,Low Income
+32,CHAD,Africa,Developing,Low Income
+33,CONGO,Africa,Developing,Low Middle Income
+34,DEMOCRATIC REPUBLIC OF THE CONGO,Africa,Developing,Low Income
+35,EQUATORIAL GUINEA,Africa,Developing,Upper Middle Income
+36,GABON,Africa,Developing,Upper Middle Income
+37,SAO TOME AND PRINCIPE,Africa,Developing,Not Available
+38,BOTSWANA,Africa,Developing,Upper Middle Income
+39,ESWATINI,Africa,Developing,Low Middle Income
+40,LESOTHO,Africa,Developing,Low Middle Income
+41,NAMIBIA,Africa,Developing,Upper Middle Income
+42,SOUTH AFRICA,Africa,Developing,Upper Middle Income
+43,BENIN,Africa,Developing,Low Middle Income
+44,BURKINA FASO,Africa,Developing,Low Income
+45,CABO VERDE,Africa,Developing,Low Middle Income
+47,GAMBIA,Africa,Developing,Low Income
+48,GHANA,Africa,Developing,Low Middle Income
+49,GUINEA,Africa,Developing,Low Income
+50,GUINEA-BISSAU,Africa,Developing,Low Income
+51,LIBERIA,Africa,Developing,Low Income
+52,MALI,Africa,Developing,Low Income
+53,MAURITANIA,Africa,Developing,Low Middle Income
+54,NIGER,Africa,Developing,Low Income
+55,NIGERIA,Africa,Developing,Low Middle Income
+57,SENEGAL,Africa,Developing,Low Middle Income
+58,SIERRA LEONE,Africa,Developing,Low Income
+59,TOGO,Africa,Developing,Low Income
+61,ANTIGUA AND BARBUDA,Americas,Developing,High Income
+62,ARUBA,Americas,Developing,High Income
+63,BAHAMAS,Americas,Developing,High Income
+64,BARBADOS,Americas,Developing,High Income
+66,BRITISH VIRGIN ISLANDS,Americas,Developing,High Income
+67,CAYMAN ISLANDS,Americas,Developing,High Income
+68,CUBA,Americas,Developing,Upper Middle Income
+70,DOMINICA,Americas,Developing,Upper Middle Income
+71,DOMINICAN REPUBLIC,Americas,Developing,Upper Middle Income
+72,GRENADA,Americas,Developing,Upper Middle Income
+74,HAITI,Americas,Developing,Low Middle Income
+75,JAMAICA,Americas,Developing,Not Available
+78,PUERTO RICO,Americas,Developing,High Income
+80,SAINT KITTS AND NEVIS,Americas,Developing,Not Available
+81,SAINT LUCIA,Americas,Developing,Not Available
+83,SAINT VINCENT AND THE GRENADINES,Americas,Developing,Not Available
+85,TRINIDAD AND TOBAGO,Americas,Developing,High Income
+86,TURKS AND CAICOS ISLANDS,Americas,Developing,High Income
+87,UNITED STATES VIRGIN ISLANDS,Americas,Developing,Not Available
+88,BELIZE,Americas,Developing,Low Middle Income
+89,COSTA RICA,Americas,Developing,Upper Middle Income
+90,EL SALVADOR,Americas,Developing,Low Middle Income
+91,GUATEMALA,Americas,Developing,Upper Middle Income
+92,HONDURAS,Americas,Developing,Low Middle Income
+93,MEXICO,Americas,Developing,Upper Middle Income
+94,NICARAGUA,Americas,Developing,Low Middle Income
+95,PANAMA,Americas,Developing,Upper Middle Income
+96,ARGENTINA,Americas,Developing,Upper Middle Income
+99,BRAZIL,Americas,Developing,Upper Middle Income
+100,CHILE,Americas,Developing,High Income
+101,COLOMBIA,Americas,Developing,Upper Middle Income
+102,ECUADOR,Americas,Developing,Upper Middle Income
+105,GUYANA,Americas,Developing,Upper Middle Income
+106,PARAGUAY,Americas,Developing,Upper Middle Income
+107,PERU,Americas,Developing,Upper Middle Income
+109,SURINAME,Americas,Developing,Upper Middle Income
+110,URUGUAY,Americas,Developing,High Income
+112,BERMUDA,Americas,Developed,High Income
+113,CANADA,Americas,Developed,High Income
+114,GREENLAND,Americas,Developed,High Income
+116,UNITED STATES,Americas,Developed,High Income
+117,KAZAKHSTAN,Asia,Developing,Upper Middle Income
+118,KYRGYZSTAN,Asia,Developing,Low Middle Income
+119,TAJIKISTAN,Asia,Developing,Low Middle Income
+120,TURKMENISTAN,Asia,Developing,Upper Middle Income
+121,UZBEKISTAN,Asia,Developing,Low Middle Income
+122,CHINA,Asia,Developing,Upper Middle Income
+124,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,Asia,Developing,Low Income
+125,JAPAN,Asia,Developed,High Income
+126,MONGOLIA,Asia,Developing,Low Middle Income
+127,REPUBLIC OF KOREA,Asia,Developing,High Income
+128,BRUNEI DARUSSALAM,Asia,Developing,High Income
+129,CAMBODIA,Asia,Developing,Low Middle Income
+130,INDONESIA,Asia,Developing,Low Middle Income
+131,LAO PEOPLE'S DEMOCRATIC REPUBLIC,Asia,Developing,Low Middle Income
+132,MALAYSIA,Asia,Developing,Upper Middle Income
+133,MYANMAR,Asia,Developing,Low Middle Income
+134,PHILIPPINES,Asia,Developing,Low Middle Income
+135,SINGAPORE,Asia,Developing,High Income
+136,THAILAND,Asia,Developing,Upper Middle Income
+137,TIMOR-LESTE,Asia,Developing,Low Middle Income
+138,VIET NAM,Asia,Developing,Low Middle Income
+139,AFGHANISTAN,Asia,Developing,Low Income
+140,BANGLADESH,Asia,Developing,Low Middle Income
+141,BHUTAN,Asia,Developing,Low Middle Income
+142,INDIA,Asia,Developing,Low Middle Income
+144,MALDIVES,Asia,Developing,Upper Middle Income
+145,NEPAL,Asia,Developing,Low Middle Income
+146,PAKISTAN,Asia,Developing,Low Middle Income
+147,SRI LANKA,Asia,Developing,Low Middle Income
+148,ARMENIA,Asia,Developing,Upper Middle Income
+149,AZERBAIJAN,Asia,Developing,Upper Middle Income
+150,BAHRAIN,Asia,Developing,High Income
+151,CYPRUS,Asia,Developed,High Income
+152,GEORGIA,Asia,Developing,Upper Middle Income
+153,IRAQ,Asia,Developing,Upper Middle Income
+154,ISRAEL,Asia,Developed,High Income
+155,JORDAN,Asia,Developing,Upper Middle Income
+156,KUWAIT,Asia,Developing,High Income
+157,LEBANON,Asia,Developing,Upper Middle Income
+158,OMAN,Asia,Developing,High Income
+159,QATAR,Asia,Developing,High Income
+160,SAUDI ARABIA,Asia,Developing,High Income
+161,STATE OF PALESTINE,Asia,Developing,Not Available
+162,SYRIAN ARAB REPUBLIC,Asia,Developing,Not Available
+163,TURKEY,Asia,Developing,Upper Middle Income
+164,UNITED ARAB EMIRATES,Asia,Developing,High Income
+165,YEMEN,Asia,Developing,Low Income
+166,BELARUS,Europe,Developed,Upper Middle Income
+167,BULGARIA,Europe,Developed,Upper Middle Income
+168,CZECHIA,Europe,Developed,High Income
+169,HUNGARY,Europe,Developed,High Income
+170,POLAND,Europe,Developed,High Income
+171,REPUBLIC OF MOLDOVA,Europe,Developed,Upper Middle Income
+172,ROMANIA,Europe,Developed,Upper Middle Income
+173,RUSSIAN FEDERATION,Europe,Developed,Upper Middle Income
+174,SLOVAKIA,Europe,Developed,High Income
+175,UKRAINE,Europe,Developed,Low Middle Income
+180,DENMARK,Europe,Developed,High Income
+181,ESTONIA,Europe,Developed,High Income
+182,FAROE ISLANDS,Europe,Developed,High Income
+183,FINLAND,Europe,Developed,High Income
+184,ICELAND,Europe,Developed,High Income
+185,IRELAND,Europe,Developed,High Income
+186,ISLE OF MAN,Europe,Developed,High Income
+187,LATVIA,Europe,Developed,High Income
+188,LITHUANIA,Europe,Developed,High Income
+189,NORWAY,Europe,Developed,High Income
+191,SWEDEN,Europe,Developed,High Income
+192,UNITED KINGDOM,Europe,Developed,High Income
+193,ALBANIA,Europe,Developed,Upper Middle Income
+194,ANDORRA,Europe,Developed,High Income
+195,BOSNIA AND HERZEGOVINA,Europe,Developed,Upper Middle Income
+196,CROATIA,Europe,Developed,High Income
+197,GIBRALTAR,Europe,Developed,High Income
+198,GREECE,Europe,Developed,High Income
+200,ITALY,Europe,Developed,High Income
+201,MALTA,Europe,Developed,High Income
+202,MONTENEGRO,Europe,Developed,Upper Middle Income
+203,NORTH MACEDONIA,Europe,Developed,Upper Middle Income
+204,PORTUGAL,Europe,Developed,High Income
+205,SAN MARINO,Europe,Developed,High Income
+206,SERBIA,Europe,Developed,Upper Middle Income
+207,SLOVENIA,Europe,Developed,High Income
+208,SPAIN,Europe,Developed,High Income
+209,AUSTRIA,Europe,Developed,High Income
+210,BELGIUM,Europe,Developed,High Income
+211,FRANCE,Europe,Developed,High Income
+212,GERMANY,Europe,Developed,High Income
+213,LIECHTENSTEIN,Europe,Developed,High Income
+214,LUXEMBOURG,Europe,Developed,High Income
+215,MONACO,Europe,Developed,High Income
+216,NETHERLANDS,Europe,Developed,High Income
+217,SWITZERLAND,Europe,Developed,High Income
+218,AUSTRALIA,Oceania,Developed,High Income
+222,NEW ZEALAND,Oceania,Developed,High Income
+224,FIJI,Oceania,Developing,Upper Middle Income
+225,NEW CALEDONIA,Oceania,Developing,High Income
+226,PAPUA NEW GUINEA,Oceania,Developing,Low Middle Income
+227,SOLOMON ISLANDS,Oceania,Developing,Low Middle Income
+228,VANUATU,Oceania,Developing,Low Middle Income
+229,GUAM,Oceania,Developing,High Income
+230,KIRIBATI,Oceania,Developing,Low Middle Income
+231,MARSHALL ISLANDS,Oceania,Developing,Upper Middle Income
+233,NAURU,Oceania,Developing,High Income
+234,NORTHERN MARIANA ISLANDS,Oceania,Developing,High Income
+235,PALAU,Oceania,Developing,High Income
+237,AMERICAN SAMOA,Oceania,Developing,Upper Middle Income
+238,COOK ISLANDS,Oceania,Developing,Not Available
+239,FRENCH POLYNESIA,Oceania,Developing,High Income
+240,NIUE,Oceania,Developing,Not Available
+242,SAMOA,Oceania,Developing,Low Middle Income
+244,TONGA,Oceania,Developing,Upper Middle Income
+245,TUVALU,Oceania,Developing,Upper Middle Income
